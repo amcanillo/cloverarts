@@ -1,2 +1,2 @@
 # cloverarts
-Designed and Coded website for almost-9 year-old. 
+Designed website from template for almost-9 year-old. 
